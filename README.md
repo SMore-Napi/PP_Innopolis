@@ -28,6 +28,7 @@ Symbolic differentiation and gradient of polynomial expressions.
     > Use [CodeWorld](https://code.world/haskell) website
 - [Input-output questions test](/haskell/IOQuestionsTest.hs)
 - [Wholemeal programming](/haskell/WholemealProgramming.hs)
+    > Use [CodeWorld](https://code.world/haskell) website
 
 ### Assignment
 
