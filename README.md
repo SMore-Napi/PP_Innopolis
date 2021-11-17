@@ -35,5 +35,6 @@ Symbolic differentiation and gradient of polynomial expressions.
 ## Logic programming in Prolog
 
 ### Labs
+- [Crossword and Travels](/prolog/CrosswordTravels.pl)
 
 ### Assignment
