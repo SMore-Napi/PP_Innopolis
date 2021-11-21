@@ -31,6 +31,11 @@ Symbolic differentiation and gradient of polynomial expressions.
     > Use [CodeWorld](https://code.world/haskell) website
 
 ### Assignment
+1. Implement the tools for working with discrete lines and discrete 2D spaces with a focused point
+2. Render **Rule 30**
+3. Render **Conway’s Game of Life**
+- [Discrete lines and spaces](/haskell/DiscreteLinesSpaces.hs)
+    > Use [CodeWorld](https://code.world/haskell) website
 
 ## Logic programming in Prolog
 
