@@ -583,8 +583,9 @@ main = do
     print ex13
     putStrLn ""
     
-     -- Render the fist N steps of Rule 30
-    --- ex8
+    -- Render the fist N steps of Rule 30
+    -- ex8
 
     -- Animate Conway's Game of Life
     ex14
+
