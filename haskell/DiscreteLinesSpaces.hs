@@ -514,8 +514,6 @@ startConway = mapSpace
 
 
 -- | Program entry point. Print result for all exercises
--- Note that in code.world site it prints only half of an output.
--- To print the whole output, comment `ex8` and 'ex14' lines
 
 -- To check the Rule 30, uncomment `ex8` line.
 -- To check the Conway’s Game of Life, uncomment `ex14` line.
@@ -560,10 +558,7 @@ main = do
     putStrLn ""
     putStr "applyRule30: "
     print ex7b
-    putStrLn ""
-
-    -- Render the fist N steps of Rule 30
-    -- ex8
+    putStrLn ""   
 
     putStr "Exercise 1.9: "
     print ex9
@@ -587,7 +582,9 @@ main = do
     putStrLn "Exercise 1.13"
     print ex13
     putStrLn ""
+    
+     -- Render the fist N steps of Rule 30
+    --- ex8
 
     -- Animate Conway's Game of Life
     ex14
-
