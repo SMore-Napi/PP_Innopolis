@@ -41,5 +41,6 @@ Symbolic differentiation and gradient of polynomial expressions.
 
 ### Labs
 - [Crossword and Travels](/prolog/CrosswordTravels.pl)
+- [Lists and arithmetic](/prolog/ListsAndArithmetic.pl)
 
 ### Assignment
