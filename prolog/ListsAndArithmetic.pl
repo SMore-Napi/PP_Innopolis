@@ -94,3 +94,12 @@ sort_(X, R) :- anagram(X, R), sorted(R).
 % because there is no any point to stop.
 % So, it inifinitly will be trying to find soultions 
 % increasing the unknown list's length.
+sameLength([], []).
+sameLength([_|X], [_|Y])
+	:- sameLength(X, Y).
+
+shuffled([], []).
+shuffled(X, [H|Y]) :-
+    sameLength(X, [H|Y]),
+    select(X, H, T),
+    shuffled(T, Y).
